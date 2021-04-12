@@ -127,9 +127,6 @@ for event, element in etree.iterparse('/Users/gianluigiiannantuoni/Desktop/Tiroc
 
    element.clear()
 
-   if len(db) == 1000:
-     break
-
 pd.set_option('display.max_columns', None)
 
 df_dblp = pd.DataFrame(db)
