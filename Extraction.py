@@ -16,20 +16,17 @@ from bs4 import BeautifulSoup
 # In[37]:
 
 
-path = r'/Users/gianluigiiannantuoni/Desktop/Tirocinio/dataset'
+path = r'dataset'
 all_files = glob.glob(path + "/*.csv")
 
 li = []
 
 for filename in all_files:
+    print(filename)
     df = pd.read_csv(filename, index_col=None, header=0, low_memory=False)
     li.append(df)
 
 df_open_citations = pd.concat(li, axis=0, ignore_index=True)
-
-
-# In[38]:
-
 
 df_open_citations.sort_values(by='citing', ascending=True)
 
@@ -66,7 +63,7 @@ df_cited
 
 if len(glob.glob('dblp_new.xml')) == 0:
     
-    myfile = open('/Users/gianluigiiannantuoni/Desktop/Tirocinio/dataset/dblp.xml', 'r')
+    myfile = open('dblp.xml', 'r')
     outfile = open('dblp_new.xml', 'w')
     ok = False
 
@@ -97,8 +94,7 @@ if len(glob.glob('dblp_new.xml')) == 0:
 
 db = []
 
-for event, element in etree.iterparse('/Users/gianluigiiannantuoni/Desktop/Tirocinio/dataset/dblp_new.xml', 
-                                      tag="inproceedings", load_dtd=True, html=True):
+for event, element in etree.iterparse('dblp_new.xml',tag="inproceedings", load_dtd=True, html=True):
    title = ''
    year = ''
    ee = ''

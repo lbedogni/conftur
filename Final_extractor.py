@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import os.path
 
 path = 'dataset'
-df_merge_col = pd.read_csv(path + '/initial_dataframe.csv', index_col=0)
+df_merge_col = pd.read_csv('initial_dataframe.csv', index_col=0)
 skiprows = 0
 
 if os.path.isfile('complete_dataframe.csv'):
@@ -32,7 +32,7 @@ def fun(address):
     return pd.Series([title, location])
 
 
-n = 500000 
+n = 500 
 chunks = [df_merge_col[i:i + n] for i in range(0, df_merge_col.shape[0], n)]
 header = True
 for chunk in chunks:
