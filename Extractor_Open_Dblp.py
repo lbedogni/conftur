@@ -80,8 +80,6 @@ for event, element in tqdm(etree.iterparse("dblp_new.xml",
    author = []
 
    counter += 1
-   if counter > 100000:
-       break
 
    for child in element:
        if child.tag == 'author' and child.text:
