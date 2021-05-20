@@ -4,7 +4,8 @@ from bs4 import BeautifulSoup
 import os.path
 
 path = 'dataset'
-df_merge_col = pd.read_csv('initial_dataframe.csv', index_col=0)
+df_merge_col = pd.read_csv('dataset_ready_location_21671row.csv')
+df_merge_col = df_merge_col.drop('Unnamed: 0', axis=1)
 skiprows = 0
 
 if os.path.isfile('complete_dataframe.csv'):
