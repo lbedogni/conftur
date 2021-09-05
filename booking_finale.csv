@@ -1,0 +1,2474 @@
+,city,hotels_results
+0,Wrexham,44
+1,Paraná,70
+2,Sanur,337
+3,Libertad City,28
+4,Bahrurst,8
+5,Salvador-BA,706
+6,Iscia,730
+7,Brescello,5
+8,Gros Islet,56
+9,Melacca,604
+10,Hailar,3
+11,Luxembourg - Supplement,191
+12,Imperia,287
+13,Hong Kong - Short Papers and Posters,4
+14,Kirchheim bei München,1008
+15,Renningen,7
+16,Punta Cana,703
+17,Hasselt and Genk,55
+18,Tübingen/Reutlingen,38
+19,Hamammet,109
+20,Hachioji,23
+21,Chateau de Villebrumier,81
+22,Changzhou,58
+23,Rio De Janeiro,2222
+24,Airlie,174
+25,Bad Salzdetfurth,3
+26,Fontainebleau,46
+27,Galtinburg,789
+28,Brunel University,746
+29,Milton Keynes,190
+30,Perugia,315
+31,Queensland Gold Cost,1127
+32,San Miniato,69
+33,Bocca di Magra,14
+34,Winston-Salem,40
+35,Wiesbaden-Naurod,103
+36,Chelwood Gate,360
+37,Montpellier / La Grande Motte,52
+38,Tatihou,67
+39,Humlebæk,120
+40,Cold Spring Harbor,92
+41,Tuusula,156
+42,Cernay-la-Ville,454
+43,Rüschlikon,484
+44,Brixen/Bressanone (near Bozen/Bolzano),5148
+45,Xining,42
+46,Hofgeismar,17
+47,Weßling,4
+48,Orlando / Buena Vista,112
+49,San Andres Island,482
+50,Nafpaktos,55
+51,Métabief,15
+52,Białystok,270
+53,Nakhonpathom,31
+54,Platja D'Aro,475
+55,Dong Hoi City,49
+56,South Padre Island,695
+57,Odder,20
+58,Aristi Village,3492
+59,Olhao,234
+60,Magog-Orford,46
+61,Menlo Park and San Jose,32
+62,Xia'men,119
+63,Soesterberg,3
+64,Kaoshiung,272
+65,Angsana Laguna,227
+66,Missoula,38
+67,Esch-sur-Alzette,13
+68,Phoenix/Scottsdale,482
+69,Stamford,24
+70,Zikhron-Yaakov,22
+71,Lökeberg,168
+72,Juraj Hromkovic,134
+73,Sithonia,1329
+74,Essaouira,296
+75,Oran,58
+76,Kuwait City,120
+77,Hohhot,21
+78,Iași,235
+79,Danang City,127
+80,Fukuoka City,289
+81,Urbino,95
+82,Monte-Carlo,32
+83,Santa Cruz de Tenerife,306
+84,Chiang Rai,201
+85,Quy Nhon,372
+86,Łódź,351
+87,Nieuwpoort,245
+88,Lanarca,20
+89,Roccella Jonica,28
+90,Schloss Seggau,21
+91,Tebessa,0
+92,Joinville / Belém,93
+93,Awassa,2
+94,Kryvyi Rih,84
+95,Vösendorf / Vienna,6
+96,Qing Dao,49
+97,Berne,87
+98,Magnetic Island,202
+99,Sintra,310
+100,Vadstena,13
+101,Jadwisin near Warsaw,2823
+102,Mariánské Lázne,173
+103,Framingham,6
+104,Champaign/Urbana,3
+105,Wepion,2
+106,Bowling Green,31
+107,Freudenstadt,64
+108,Ispra (Varese),21
+109,Oak Brook,9
+110,Tatranska Lomnica,124
+111,Oberpfaffenhofen,5
+112,Marktoberdorf,8
+113,Asilomar (Pacific Grove),29
+114,Edingburgh,1475
+115,Ile de Porquerolles,373
+116,Université de Nice Sophia-Antipolis,2442
+117,Reno/Lake Tahoe,66
+118,Luxembourg - ReMo2V,192
+119,Forianópolis,2587
+120,Gaussig,2
+121,Dassel (Solling),4
+122,Asilomar/Pacific Grove,29
+123,Neubiberg,2
+124,Awara-Spa,2
+125,Semiahmoo Resort,9
+126,Dubai/Sharjah,509
+127,Frauenchiemsee,1358
+128,Williams College,2
+129,Cumberland Falls,11
+130,Elmau/Oberbayern,882
+131,Budmerice,151
+132,Giardini Naxos - Taormina,507
+133,University of Windsor,2216
+134,Storrs,21
+135,Cavtat,404
+136,Colmenarejo,228
+137,Mathematics,79
+138,Rye Brook,100
+139,Muroran,30
+140,Awaji Island,85
+141,Lannion,34
+142,Makuhari-Messe,727
+143,Oberpfaffenhofen near Munich,706
+144,Leuven-Heverlee,51
+145,Roseau,38
+146,Mallorca,11012
+147,Villa Vigoni,337
+148,Ingolstadt,55
+149,Opatija,662
+150,Loyola College,332
+151,Standford,105
+152,Versailles,68
+153,Iowa City,38
+154,Strbské Pleso,204
+155,Köln,491
+156,Cargèse,48
+157,Hong Kong - Courses,429
+158,Póvoa de Varzin,96
+159,Kirkkonummi,7
+160,Tsakhkadzor,62
+161,Lwówek Śląski,7
+162,Gazimagusa,28
+163,Aber Wrac'h,393
+164,Vanderbijlpark,42
+165,Gangneug,30
+166,Las Croabas,2
+167,Kuslin,32
+168,Annaheim,27
+169,Thaba Nchu,0
+170,Brandenburg an der Havel,49
+171,San Jose / Silicon Valley,96
+172,Lahore,260
+173,Pythagorion,4084
+174,Hokkaido,1956
+175,Jihlava,26
+176,Kitakyushu City,731
+177,Fortaleza - Ceará,761
+178,Altoona,15
+179,Karachi,143
+180,Hoegaarden,239
+181,Chemnitz-Zwickau,88
+182,Cirencester,75
+183,Marina di Vietri,200
+184,Valparaíso,131
+185,San Diego/La Jolla,144
+186,Ullapool,26
+187,Espoo/Helsinki,39
+188,Åarhus,45
+189,Lac Delage,172
+190,Belfield,3
+191,Opio (Nice),2198
+192,Dromquinna Manor,565
+193,Heraclion,337
+194,Schloß Rheinfels,27
+195,Lillehammer,61
+196,Madeira Island,2172
+197,Rensselaerville,36
+198,Washington D.C.,301
+199,Milovy,3
+200,Clontarf Castle,358
+201,Maison de la Chimie,4053
+202,Whittlebury Hall,2
+203,Jamshoro,9
+204,Savador,809
+205,Colone,0
+206,Sarasota,280
+207,Notre Dame,8
+208,Elspeet,3
+209,Porto Alegra,1620
+210,Pontypridd,4
+211,Trollhättan,11
+212,Kharkiv,569
+213,Herzliyya-Haifa,211
+214,Le Morne,17
+215,Craiova,106
+216,Rio deJaneiro,2216
+217,High Tatras,1191
+218,Jülich / Aachen,103
+219,Louvain-la-neuve,8
+220,Gazzada (Varese),1960
+221,Pereslavl-Zalessky,142
+222,Marrakech,2214
+223,Cluj-Napoca,621
+224,Zhengzhou,159
+225,Roukela,20
+226,Corfu Island,675
+227,Elk,111
+228,Isla de Marguerita,2
+229,Jinhua,6
+230,Copper Mountain,156
+231,Luxor,220
+232,Roverto,49
+233,Wilhelminenburg Castle,28
+234,Norköping,72
+235,Manipal,19
+236,Modenae,128
+237,Hyannis,30
+238,Otsu,42
+239,Joinville,59
+240,Alanya,628
+241,Boone,44
+242,Jilin,7
+243,View,3492
+244,Cetara,49
+245,Laguna Hills,3
+246,Churchill,4
+247,Karolinka,10
+248,Vila do Conde,62
+249,Malabe,2
+250,Shinjuku,333
+251,Squillace Lido (Catanzaro),23
+252,Halden,6
+253,Al Ain,22
+254,Chihuahua,77
+255,Ibadan,34
+256,Lavras,42
+257,Mana Island,9
+258,Toulon,277
+259,Dhanbad,23
+260,Matsue-City,761
+261,Ifrance,314
+262,Choroni,3
+263,Aalborg Oest,63
+264,Olimje,55
+265,Cean,86
+266,Lądek Zdrój,66
+267,Lake Louise,10
+268,Wilhelmshaven,160
+269,Playa Blanca,853
+270,Silja Serenade,697
+271,Blankenburg/Harz,58
+272,Troyes,161
+273,Scilla,101
+274,Évry,22
+275,Sancoale,1081
+276,Mandi,13
+277,Enseneda,122
+278,Hue,57
+279,Puschino,32
+280,Dinard,153
+281,Lakeland,42
+282,Liuzhou,9
+283,Reggio di Calabria,225
+284,Donostia,726
+285,Villejuif (Paris-sud),24
+286,Panaji,81
+287,Torres Vedras,16
+288,Renton,11
+289,Kigali,185
+290,Castiglione della Pescaia,165
+291,Bucaramanga,128
+292,Wuppertal,89
+293,Victoria BC Canada,161
+294,Le Havre,178
+295,Hadath,149
+296,Castellaneta Marina (Taranto),31
+297,Longyearbyen,11
+298,Jabalpur,68
+299,Kowloon Tong,329
+300,Villefranche-sur-mer,114
+301,Vaduz,8
+302,Dubrovnik,2466
+303,Lochem/Nijmegen,38
+304,Göteborg,109
+305,Stade,26
+306,La Jolla/San Diego,144
+307,Fischbachau,21
+308,Kamakura,94
+309,Orland,2267
+310,Caledon Hills,2
+311,Antalya,562
+312,Leiden,36
+313,Set Theory,275
+314,Mississauga,97
+315,Cocoa Beach,65
+316,Mordano,204
+317,Bighton,269
+318,Certosa di Pontignano,6
+319,Kyongju,49
+320,Lockenhaus,72
+321,Kiawah Island Resort,0
+322,Vammala,11
+323,Kangawa,2
+324,Birkbeck College,2831
+325,Freiburg/Littenweiler,206
+326,Poultney,14
+327,Getafe (Madrid),19
+328,Rockport,162
+329,Akita,16
+330,Kent,1757
+331,Virginia Beach,151
+332,El Paso,87
+333,Pont-à-Mousson,6
+334,Bolognna,1080
+335,Kihei,342
+336,Positano,463
+337,Neve Ilan (near Jerusalem),5
+338,Königslutter,13
+339,Nîmes,225
+340,Block Island,9
+341,Grado,263
+342,Murray Hill,15
+343,Chiba,519
+344,Schloss Wilhelminenberg,1934
+345,Pacifico Yokohama,136
+346,Troon,23
+347,Lindau,171
+348,Autrans,18
+349,Irsee,2
+350,Ackland,6
+351,Jesu Island,2401
+352,Jhongli,43
+353,Maebashi City,37
+354,Tunis La Marsa,32
+355,Shangai,721
+356,Kampala,360
+357,Katowice/Kraków/Ustron,2321
+358,Palmela Castle,28
+359,Campeche,70
+360,Phitsanulok,66
+361,Venezia Mestre,345
+362,Nha Trang City,558
+363,Alcala de Henares,43
+364,Nanchang City,138
+365,Venice Lido,131
+366,Munbai,824
+367,Cupertino,11
+368,Jeonju,87
+369,Kita-Kyushu,97
+370,Ringsted,8
+371,Demanovska Dolina - Jasna,128
+372,Johor,561
+373,Fulda,63
+374,Notthingham,238
+375,Sorrento Coast,984
+376,Bolzano/Bolzen,167
+377,Southport,75
+378,Nizhniy,751
+379,Kuwait,126
+380,Hong Kong and Macao,176
+381,Roudnice nad Labem,12
+382,Centurion,100
+383,Granada and Madrid,57
+384,Odessa,3292
+385,Zhongli,43
+386,Alt Empordà,3387
+387,Sushil Jajodia,68
+388,Pultusk,8
+389,Jönköping,29
+390,Zakynthos,1827
+391,Computer-Aided Diagnosis 2014,274
+392,Trois-Rivieres,26
+393,Tetova,603
+394,Atholl Palace Hotel,123
+395,Fréjus,414
+396,Košice,200
+397,Maoming,9
+398,Cortina d'Ampezzo,139
+399,Gifu City,141
+400,Johnson City,19
+401,Natal-RN,586
+402,New Taipei,276
+403,Böblingen,25
+404,Uttar Pradesh,2633
+405,Image-Guided Procedures 2014,1531
+406,Amantea,25
+407,Cau Giay,177
+408,Marcq-en-Baroeul/Lille,15
+409,Windhoek,107
+410,Tetouan,106
+411,Offenburg,26
+412,Pucon,362
+413,Bozen-Bolzano,167
+414,Buraidah Al Qassim,81
+415,Hillsboro,23
+416,Rhine River,167
+417,Manhattan Beach,13
+418,Piata Salvador,700
+419,Siem Reap,355
+420,Lovran,419
+421,Algiers,37
+422,Dallas/Forth Worth,86
+423,Castellon,72
+424,Cazalla de la Sierra,39
+425,Cranfield,2
+426,Veliky Novgorod,322
+427,Glenelg,42
+428,Ramat Gan,14
+429,Costa da Caparica,177
+430,Villers-les-Nancy,2
+431,Garching/Munich,849
+432,Fort Wayne,43
+433,Pistoia,118
+434,Esssen,217
+435,Leshan,17
+436,Wasowo Palace,47
+437,Dombai,291
+438,Nantucket,37
+439,Yassmine Hammamet,47
+440,Carlsbad,84
+441,Ma'ale HaHamisha,453
+442,Brindisi,132
+443,Chaminade,58
+444,Kenitra and Rabat,60
+445,Jackson,202
+446,Hefei and Tai'an,56
+447,Curaçao,391
+448,Plovdiv,346
+449,Zielona Góra,128
+450,Belém,92
+451,Vieste,442
+452,Sidi Bou Said,13
+453,Stuttgart - Workshops,274
+454,Porto Santo Island,64
+455,St.Petersburg,8116
+456,Tsukuba City,730
+457,Abbotsford,12
+458,St.Gallen,43
+459,Maun,121
+460,La Rioja,669
+461,Terres de l'Ebre,159
+462,Tam Ky,11
+463,Mauna Lani Resort,260
+464,Guatemala City,151
+465,Levanger,4
+466,Beer-Sheva,43
+467,Rzeszów,135
+468,Goiânia,289
+469,Kavala,397
+470,Tijuana,141
+471,Zadar,2446
+472,Patna,154
+473,Vila Real,45
+474,Minsk,1069
+475,Putrajaya,69
+476,Gaeta,349
+477,Puerto Rico,197
+478,Geisenheim,10
+479,Lège-Cap Ferret,72
+480,Warangal,14
+481,Vung Tau,501
+482,Kocierz Pass,44
+483,Changshu,18
+484,Hong Kong - Workshops,533
+485,Poughkeepsie,9
+486,Mytilene,48
+487,Mokpo,23
+488,Santa Cantarina,7651
+489,Douai,23
+490,Dead Sea,53
+491,Computer-Aided Diagnosis 2015,274
+492,Morelos,198
+493,Soláň,58
+494,Albena (Varna),4
+495,Albi,38
+496,Târgu Mureș,141
+497,Greensboro,90
+498,Caraguatatuba,404
+499,Wurzen,7
+500,South Brisbane,357
+501,Kaufbeuren,20
+502,Torino/Turin,1070
+503,Famagusta,33
+504,Slovensky Raj,154
+505,Krystiansand,35
+506,Bangi,40
+507,Puebla/Cholula,61
+508,Platanias,140
+509,Brenna,61
+510,Dongguan,109
+511,Bellvue,73
+512,Gatineau,55
+513,Carrara - Gold Coast,2
+514,Chişinău,402
+515,Sichuan,596
+516,Alcudia,923
+517,Provo,21
+518,Poole,183
+519,Gebze,15
+520,Krabi,841
+521,Kota Samarahan,8
+522,Bydgoszcz,161
+523,Maceio,722
+524,Montbeliard,23
+525,Marne-la-Vallée,455
+526,Tel-Aviv,815
+527,Image-Guided Procedures 2013,1531
+528,Póvoa do Varzim,96
+529,National Harbor,69
+530,St. Pete Beach,784
+531,Dagstuhl Castle/Wadern,813
+532,Xi'an City,114
+533,Yilan County,1125
+534,HuangShan,27
+535,Lörrach,44
+536,Telč,40
+537,Fes,370
+538,Tuxtla Gutiérrez,73
+539,Ilan,4
+540,Ferrara,193
+541,Loriol-sur-Drôme,2
+542,Volgograd,514
+543,Valle de Bravo,109
+544,Winterthur,20
+545,Bintan Island,1305
+546,Yonago,26
+547,Žilina,59
+548,Viet Tri City,819
+549,Caulfield,78
+550,Monastir,21
+551,Chios,196
+552,Loughbrough University,38
+553,Union,170
+554,La Maddalena,277
+555,Giza,190
+556,Singapore / The Hague,118
+557,Asan,7
+558,Nörten Hardenberg,4
+559,ChongQing,222
+560,Nice Sophia Antipolis,2459
+561,Teruel,103
+562,Teresina,61
+563,Kamloops,46
+564,Monte Carlo,31
+565,Datong,18
+566,Science and Systems 2016,64
+567,Salt Lake,134
+568,Tatranské Matliare,5183
+569,Katowice,251
+570,Pondicherry,338
+571,Carthage,7
+572,Handan,21
+573,Bozeman,56
+574,Blagoevgrad,48
+575,Ningbo,70
+576,Leerdam,4
+577,Konya,35
+578,Gregynog,662
+579,Nairobi,1336
+580,Ho Chi Minh,1577
+581,Singapore - Companion,506
+582,Kamień Śląski,157
+583,Shunde,43
+584,Ljungskile,22
+585,Wuerzburg,138
+586,Zonguldak,3
+587,Mohammedia,145
+588,Varanasi,356
+589,Dongying,9
+590,Chiayi,76
+591,Key Largo,65
+592,Ouagadougou,46
+593,Grasse,83
+594,Launceston,73
+595,Image-Guided Procedures 2016,566
+596,Rach Gia,26
+597,Krishnankoil,121
+598,Computer-Aided Diagnosis 2016,274
+599,Panama City,168
+600,Asilomar State Beach/Pacific Grove,21
+601,Beppu,153
+602,Thapar University,70
+603,Rio de Janerio,237
+604,České Budějovice,96
+605,Saint Julian's,164
+606,Caxias do Sul,38
+607,Madurai,82
+608,Singapore - Adjunct,506
+609,Saclay,5
+610,Irkutsk,473
+611,Kenitra,60
+612,São Pedro,23
+613,Grenoble and Paris,3
+614,Sassari,150
+615,Kandima,2
+616,Jiaoxi,186
+617,Qawra,163
+618,Reutlingen,39
+619,Knowledge,163
+620,Scholarly Big Data 2015,380
+621,AI for Transportation 2015,41
+622,Artificial Intelligence and Ethics 2015,791
+623,Obninsk,54
+624,Qufu,6
+625,Pilos,22
+626,Okayama,103
+627,Wolfenbüttel,21
+628,Can Tho,148
+629,Sarawak,376
+630,Azores,1704
+631,Gijon,380
+632,Bucheon,8
+633,Koper,279
+634,Saharanpur,11
+635,Pec pod Sněžkou,154
+636,Ein Gedi,6
+637,Lesvos,357
+638,Tetuan,106
+639,San Francisco Bay,274
+640,Mt. Hood,7
+641,Parkville,175
+642,Albena,25
+643,San Francisco Bay Area,274
+644,Elgin,54
+645,Montserrat,4
+646,Sochi,2843
+647,Malatya,8
+648,Champs sur Marne,4
+649,Cotonou,90
+650,Piauí,35
+651,Versaille,69
+652,Varaždin,64
+653,Noboribetsu,19
+654,Marrakech and Essaouira,294
+655,Filzbach,3
+656,Nouméa,22
+657,Alberobello,384
+658,Allen,299
+659,Marcq-en-Baroeul,15
+660,Bandar Seri Begawan,19
+661,São Carlos/SP,33
+662,Hirosaki,26
+663,Liberty of the Seas,38
+664,Ioannina,174
+665,Duluth,33
+666,Ibiza,1190
+667,Saint Etienne,117
+668,Dubna,14
+669,Elmshorn,12
+670,Sharjah and Dubai,1450
+671,Iskandar,19
+672,Santa Catarina,7651
+673,Bolzano,167
+674,Pietermaritzburg,61
+675,Paul G. Spirakis 2015,182
+676,La Thuile,59
+677,Ada Lovelace 2015,683
+678,Riviera Maya,3091
+679,Kohala,284
+680,Belfort,52
+681,Hamburg - Workshops,638
+682,St. Pölten,19
+683,Muenchen,551
+684,Kokura Kita-ku,48
+685,Bergamo,348
+686,Forlì-Cesena,248
+687,Cusco,542
+688,St. Magdalena / Linz,2
+689,Livorno,145
+690,KaoHsiung,320
+691,Silchar,4
+692,Algeries,37
+693,Selangor Darul Ehsan,89
+694,Ishigaki,233
+695,Bragança,57
+696,Trabzon,307
+697,Statistical Relational Artificial Intelligence 2014,698
+698,Giessen,28
+699,Nouan-le-Fuzelier,5
+700,Marienstatt,445
+701,Anissaras,50
+702,Safety Harbor,3
+703,Iaşi,235
+704,Mittweida,7
+705,Levi,84
+706,Guangdong,1708
+707,Constantine,96
+708,Stavropol,211
+709,Kinsdale,50
+710,Lochau / Bregenz,28
+711,Espinho,52
+712,Vijayawada,71
+713,Cachan,9
+714,Castelldefels-Barcelona,90
+715,Juan Les Antibes,151
+716,Cherbourg,64
+717,Güzelyurt,12
+718,Dornbirn,42
+719,Corpus Christ,435
+720,Druskininkai,275
+721,Hotel Plejsy,4
+722,Gudalajara,462
+723,DeKalb,5
+724,Heilbronn,42
+725,Science and Systems 2018,64
+726,Solapur,21
+727,Gotemba,27
+728,Mahdia,47
+729,Luleå,19
+730,Hilo,51
+731,Obergurgl,73
+732,Yamagata,167
+733,Woods Hole,2
+734,Dona Paula,6
+735,Sierre,12
+736,Alessandria,344
+737,Ustron,161
+738,Paris - Clos Lucé,263
+739,Lac-Beauport,4
+740,Mikulov,138
+741,Zarós,10
+742,Touzeur,17
+743,Bela Bela,75
+744,Stedronin-Plazy,41
+745,Menuires,775
+746,Gdynia,1077
+747,Nagaoka,10
+748,Bahia,252
+749,Bressanone/Brixen,120
+750,Larissa,40
+751,Daegue,76
+752,Science and Systems 2010,64
+753,São Bernardo do Campo,28
+754,Tamilnadu,3041
+755,Universität Duisburg-Essen,538
+756,Tirana,627
+757,Stavanger,81
+758,Biopolis,1545
+759,Computer-Aided Diagnosis 2011,378
+760,Favignana Island,316
+761,Marin County,43
+762,Sabah,629
+763,Roorkee,23
+764,Pucón,362
+765,Monticello,6
+766,Oppenheim,6
+767,Nový Smokovec,3
+768,Castell de Cardona,6
+769,Split,3772
+770,Laško,47
+771,Villa Mondragone,22
+772,Berleley,24
+773,Lednice,63
+774,Hermann A. Maurer,11
+775,Ft. Lauderdale,436
+776,Brian Randell,160
+777,Alain Lecomte 2007 / 2011,607
+778,Kaohsiung City,320
+779,Skiathos,509
+780,TaiChung,349
+781,Jeju-si,299
+782,Carolyn L. Talcott 2011,11
+783,Torre Canne (BR),5590
+784,Bejaïa,4
+785,Belo Hoizonte,248
+786,Fukushima,248
+787,Nagano,1042
+788,Island of Rhodes,79
+789,Karslruhe,122
+790,South Bend,46
+791,Mulhouse,177
+792,Kobe Japan,170
+793,Loughborough,38
+794,Bad Herrenalp,40
+795,Sharm El Sheik,271
+796,Indian Wells,21
+797,Kinloch Rannoch,40
+798,Constance,2539
+799,London/Greenwich,166
+800,Ghent,248
+801,Coronado,18
+802,St. Petersburg Beach,760
+803,Ontario,2181
+804,Steyr,26
+805,Cesena,252
+806,Roscoff,50
+807,Frascati/Rome,8434
+808,Kiawah Island,335
+809,St. Etienne,119
+810,Aix-en-Provence,291
+811,Fuzzy Logic in Artificial Intelligence,413
+812,St. Malo,527
+813,Monréal,44
+814,Langdale,241
+815,Murfreesboro,40
+816,Yaroslavl,473
+817,Norwich,248
+818,Bad Malente,55
+819,Coimbra,203
+820,Andrzej Ehrenfeucht,37
+821,Tunis,128
+822,Tarquinia,64
+823,Hasselt-Diepenbeek,1600
+824,Stuttgart-Möhringen,274
+825,Barelona,2466
+826,Anguilla,37
+827,Monte Veritá,481
+828,Wilfried Brauer,15
+829,Jürgen Dassow,8
+830,Valpariso,131
+831,Lake Como,3546
+832,Crakow,2877
+833,Campos do Jordao,661
+834,Ronneby,12
+835,Cernobbio,87
+836,1995,1973
+837,Stone Mountain,18
+838,Brugge,405
+839,Donostia-San Sebastian,728
+840,Rousse,96
+841,Terrasini,170
+842,Bruges,405
+843,De Zeeuwse Stromen,60
+844,Rye,98
+845,Cadenabbia (Como),37
+846,Trieste,412
+847,Malvern,126
+848,Portugal,36369
+849,Capua,22
+850,Bochum,50
+851,Friedrichbrunn,20
+852,Nonlinear Image Processing 1996,1711
+853,Aussois,49
+854,Rodos,2436
+855,Taejon,84
+856,MIT Sloan School of Management,219
+857,Greece,60560
+858,Leysin,38
+859,Saragossa,257
+860,Bad Godesberg,30
+861,Surrey,378
+862,Killington,190
+863,Talence,27
+864,Connemara,348
+865,Image Processing,128
+866,Desenzano del Garda,404
+867,Kerkyra,686
+868,Marne-la-Vallee,455
+869,Karlskrona,24
+870,Salem,11
+871,Gif-sur-Yvette,2
+872,La Garde,13
+873,Le Récif,170
+874,Lyon France,688
+875,Chapel of St. Agnes,821
+876,Pafos,666
+877,Rotorua,180
+878,Nordkirchen,7
+879,Hans Langmaack,158
+880,Luisenthal,2
+881,Kerkrade,13
+882,Plzen,100
+883,Dunkerque,95
+884,Yamaguchi,110
+885,Château de Bonas,419
+886,Lacanau-Océan,118
+887,Bridge of Allan,7
+888,Principles,300
+889,Berg en Dal,4
+890,Portorož,352
+891,Scranton,9
+892,Iasi,235
+893,Walldorf/Baden,19
+894,Rio Rico,27
+895,Frankfurt,293
+896,Stirín Castle,28
+897,Mobile,61
+898,Valladolid,109
+899,Palm Beach Gardens,23
+900,Rio de Janiero,2223
+901,Chios Island,196
+902,Sophia Antipolis and Cannes,88
+903,Structured Decompositions and Efficient Algorithms 2008,141
+904,Planning in Multiagent Systems 2008,23
+905,Social Web Communities 2008,140
+906,ENASE / 4th ENASE 2009,388
+907,Shandong,936
+908,Pattaya,1985
+909,Saint-Etienne,117
+910,Gino-wan City,217
+911,Acitrezza,55
+912,Liaoning,277
+913,Verbania,177
+914,Palaiseau/Paris,9
+915,Heijen,3
+916,Casablanca,444
+917,Mexicali,54
+918,Ispra,21
+919,Auburn,19
+920,Hradec Králové,55
+921,Sarajevo,1308
+922,Lviv,1755
+923,Computer-assisted proofs - tools,1479
+924,Graph Search Engineering 2009,4668
+925,Mysuru,8
+926,From Form to Function 2009,8
+927,Abingdon,582
+928,Saitama,275
+929,Bathesda,10
+930,Vesteras,157
+931,Marietta,471
+932,Schloß Eringerfeld,1257
+933,Discrete Mathematical Chemistry 1998,4607
+934,Tomsk,356
+935,Chrysler Technology Center,214
+936,Internet Programming Languages 1998,194
+937,External Memory Algorithms 1998,32
+938,Andros,315
+939,Tilburg,455
+940,Oisterwijk,476
+941,Sozopol,2295
+942,University of Pennsylvania,285
+943,Gelsenkirchen,735
+944,Plattsburgh,41
+945,Weybridge,2671
+946,San Francico,499
+947,Warrenton,272
+948,Marburg/Lahn,159
+949,Jasná,1010
+950,Amalfi,6212
+951,Amazonia,135
+952,Otzenhausen,322
+953,Singapore - Workshops,507
+954,Kitakyushu,100
+955,Langhorne,110
+956,Malente,2152
+957,Ostfriesland,4285
+958,Chalkidiki,830
+959,Charlottsville,15
+960,Umeå,18
+961,Antofagasta,71
+962,Blaubeuren,220
+963,Povo,612
+964,Antigonish,10
+965,Boulogne-sur-Mer,175
+966,Tatsunokuchi,399
+967,Kathmandu,372
+968,Harare,49
+969,Types,10
+970,Recurrent Neural Networks - Models,643
+971,Gabrovo,55
+972,Tozeur,17
+973,Manchster,544
+974,Calvià,16
+975,Ise,498
+976,Terrassa,21
+977,Coconut Grove,19
+978,Dunhuang,19
+979,Multiobjective Optimization 2008,2350
+980,Sant Martí d'Empúries,29
+981,Transactional Memory,38
+982,Sun Valley,152
+983,Hamamatsu,100
+984,Ilmenau,28
+985,Joao Pessoa,580
+986,Curtea de Arges,62
+987,Nonlinear Image Processing 2000,116
+988,Rhodos,2437
+989,Wolfgang Bibel,110
+990,Izmir,174
+991,Viña del Mar,328
+992,Col de Porte,70
+993,Université Paris 7,2113
+994,Kaliningrad,2610
+995,Horseshoe Bay,274
+996,Cascais,358
+997,Cape Breton,114
+998,Hilton Head,1067
+999,Juan-les-Pins,153
+1000,Treno,177
+1001,Maynooth,435
+1002,Wolverhampton,55
+1003,Penang,717
+1004,Monte Verità,481
+1005,Ballycotton,62
+1006,Blois,135
+1007,Gramado (RS),1102
+1008,Kaprun,298
+1009,Mont Saint-Hilaire,41
+1010,Reunion Island,170
+1011,Cuernavaca,164
+1012,Bar Harbor,69
+1013,Laquila,100
+1014,Kolding,286
+1015,Punta del Este,551
+1016,Pennsylvania State University,38
+1017,Bystra,413
+1018,Jounieh,35
+1019,Plzen-Bory,78
+1020,Burg (Spreewald),86
+1021,Rapallo,353
+1022,Valcartier,8
+1023,Bristol UK,379
+1024,Yokohoma,189
+1025,Bozen/Bolzano,167
+1026,Alguer,68
+1027,Vico Equense (Naples),10620
+1028,Besançon,93
+1029,Batumi,3253
+1030,Póvoa de Varzim,97
+1031,Ribeirão Preto,88
+1032,Melbourne Beach,5
+1033,Guwahati,185
+1034,Fuji-Susono,29
+1035,Brescia,120
+1036,University of Catania,146
+1037,Setubal,203
+1038,Budva,2032
+1039,Trojanovice,16
+1040,Matsushima,11
+1041,Mauritius,1229
+1042,Southhampton,6
+1043,Podebrady (near Prague),2
+1044,Oeiras,42
+1045,Castro Urdiales,49
+1046,San Luis Potosi,94
+1047,Bansko,494
+1048,Prescott,79
+1049,Castle Hofen,278
+1050,Cavtat/Dubrovnik,404
+1051,Burgos,155
+1052,Phnom Penh,221
+1053,Hildesheim,35
+1054,Medina del Campo,6
+1055,Mykonos Island,685
+1056,Lake District of the United Kingdom,3
+1057,Koli,99
+1058,Chester,242
+1059,San Luis Potosí,94
+1060,Cardiff University,317
+1061,Antibes Juan-Les-Pins,153
+1062,Claremont,28
+1063,Stará Lesná,80
+1064,Myrtle Beach,2212
+1065,Merín,2607
+1066,Cumbria,3636
+1067,Software Verification,115
+1068,Spatial Data,3640
+1069,Computational Aesthetics in Graphics,3393
+1070,Dallas / Richardson,25
+1071,La Jolla / San Diego,143
+1072,Davis,16
+1073,Schoorl / Amsterdam,1106
+1074,Villach,91
+1075,Benicassim,123
+1076,Cosenza,72
+1077,Mitzpe Ramon,47
+1078,Mt. Fuji,565
+1079,Caminha,82
+1080,Elsinore,11
+1081,NSW,1746
+1082,Colonial Williamsburg,56
+1083,Plön,17
+1084,Brussel,665
+1085,Solomon Marcus,605
+1086,Gießen,28
+1087,Århus,44
+1088,Le Creusot,18
+1089,Setúbal,203
+1090,Zelezna Ruda,85
+1091,Image-Guided Procedures 2001,1535
+1092,Grand Cayman,139
+1093,Val de Nuria,13
+1094,Marianske Lazne,172
+1095,Alcácer do Sal,51
+1096,Witten,54
+1097,Boltenhagen,334
+1098,Lappeenranta,15
+1099,Sonthofen,67
+1100,Constanta,959
+1101,Florianopolis,2393
+1102,Graphs and Discovery 2001,26
+1103,Kharhiv,570
+1104,Ås,3145
+1105,Nicosia,137
+1106,Bournemouth,378
+1107,Herrsching am Amersee,10
+1108,Naleczow,68
+1109,Agadir,555
+1110,Firenze (Florence),3126
+1111,Antibes/Juan les Pins,153
+1112,Malta,1310
+1113,Chilton,710
+1114,Mexico-City,1434
+1115,St Lucia,175
+1116,Luxembourg-Kirchberg,194
+1117,Santorini,1903
+1118,Siguenza,42
+1119,Edmondon,157
+1120,Sardinia,16115
+1121,Nara City,30
+1122,Valbonne-Sophia Antipolis,47
+1123,Sant'Angelo d'Ischia,40
+1124,El Escorial / Madrid,16
+1125,Taormina-Giardini Naxos,509
+1126,Karlovy Vary,388
+1127,Saint-Raphaël,435
+1128,Portoferraio (Isola d'Elba),280
+1129,Salzau Castle,28
+1130,Image-Guided Procedures 2002,6175
+1131,Bucharest,1595
+1132,Kansai Science City,2808
+1133,Borovets,143
+1134,Hagenberg Castle,693
+1135,Esbjerg,48
+1136,Hampton,37
+1137,Málaga,2740
+1138,Canary Islands,19409
+1139,Fischland-Darß-Zingst,2780
+1140,France and San Sebastian,3358
+1141,El Escorial,16
+1142,Robert A. Kowalski,48
+1143,Bioconsensus 2001,1102
+1144,Graphs,810
+1145,Halmstad,26
+1146,Havana,0
+1147,KyongJu City,121
+1148,Niagara on the Lake,75
+1149,Glyfada,143
+1150,Le Croisic,34
+1151,Beppu City,159
+1152,Laguna de San Rafael,137
+1153,Marbella,2261
+1154,Pontarlier,16
+1155,Roanoke,35
+1156,Almagro (Ciudad Real),67
+1157,Frascati,38
+1158,Lorne,55
+1159,Nuevo Leone,5
+1160,Wolfsburg,48
+1161,Piestany,69
+1162,Modena,128
+1163,Hagenberg,3
+1164,Meißen,83
+1165,Informatics 2001,1101
+1166,Barbara,5
+1167,Beirut,95
+1168,Cividale del Friuli,45
+1169,Mangalia,217
+1170,Manno,1272
+1171,Ogunquit,45
+1172,Morro Bay,40
+1173,Gabriel Thierrin,7
+1174,Bilbao,365
+1175,Cloudcroft,31
+1176,Mantova,134
+1177,Livingston,18
+1178,Santorini/Thera,330
+1179,Punta Arenas,56
+1180,Bejing,27
+1181,Valparaiso,131
+1182,Lemesos,351
+1183,PEAS,132
+1184,URSW,859
+1185,Huang Shan (Yellow Mountain),26
+1186,Dhaka,169
+1187,Torre Canne (Fasano,82
+1188,FIRST,118
+1189,ESOE,415
+1190,Not Found,1107
+1191,Castle of Hagenberg,38
+1192,Destin,2301
+1193,Zhuhai,72
+1194,Doha,118
+1195,Xi-An,344
+1196,Carcassonne,387
+1197,Miyazaki,68
+1198,Ekaterinburg,1051
+1199,The Lake District,1965
+1200,Bariloche,798
+1201,St. Goar,27
+1202,Ezhou,4
+1203,Normative Multi-agent Systems 2007,2361
+1204,Cutting,206
+1205,Mobility,31
+1206,New York,1243
+1207,Schenectady,106
+1208,Vas Vegas,371
+1209,East Lansing,45
+1210,Shaker Heights,125
+1211,Poznan-Kórnik,768
+1212,Bonn - Bad Godesberg,30
+1213,Liège,615
+1214,University of lllinois at Urbana-Champaign,40
+1215,Tulsa,130
+1216,Syndey,1377
+1217,Abstract Software Specifications 1979,790
+1218,Urgench,4
+1219,Evian,58
+1220,Bad Nauheim,258
+1221,Noordweijkerhout,68
+1222,Morgantown,30
+1223,Les Arcs,779
+1224,Tallahassee,78
+1225,Pingree Park,744
+1226,Rydzyna,38
+1227,Speyer,47
+1228,Acre (Akko),63
+1229,Baf Honnef,495
+1230,Peniscola,714
+1231,Wentworth,487
+1232,Chatham (Cape Cod),51
+1233,Microcomputer System Design 1981,10885
+1234,Strbske Pleso,204
+1235,Jülich,297
+1236,Garmisch-Partenkirchen,389
+1237,Teisendorf,917
+1238,Bellaire,27
+1239,Visegrad,29
+1240,Perros-Guirec,224
+1241,Burg Feuerstein,86
+1242,Idyllwild,92
+1243,Miami/Ft. Lauderdale,1375
+1244,Varenna,164
+1245,Neuenkirchen (near Erlangen),979
+1246,Carson,258
+1247,Haus Ohrbeck (near Osnabrück),314
+1248,Churchill College,30
+1249,Databases for Business and Office Applications,92
+1250,North Falmouth,230
+1251,Borgholm,31
+1252,Dassel/Solling,193
+1253,Praia da Falésia,2120
+1254,Eger,415
+1255,Castiglioncello,89
+1256,Pomona,11
+1257,Kendal,113
+1258,Copacabana,906
+1259,Kongens Lyngby,9
+1260,Aachen - Workshops,103
+1261,Ouarzazate,62
+1262,Minneapolis Minnesota,122
+1263,University of Aizu,143
+1264,Gold Goast,1125
+1265,Brasov,1258
+1266,Urumchi,32
+1267,Chamonix,1131
+1268,Richmond Hill,8
+1269,Science and Systems 2007,64
+1270,University of Minnesota,299
+1271,Jean-Pierre Jouannaud,441
+1272,Camogli,122
+1273,Vancover,165
+1274,Buenes Aires,1760
+1275,Bukowy Dworek,21
+1276,Stanford Stanford,21
+1277,Bretten,5
+1278,Farmington,22
+1279,Ostuni,1041
+1280,Tsukuba Science City,303
+1281,Harrachov,194
+1282,Siedlce,24
+1283,Aix en Provence,291
+1284,Keystone,21
+1285,Jeju-Island,590
+1286,Grahamstown,51
+1287,Cividale des Friuli,45
+1288,Pilsen,100
+1289,Amman,300
+1290,Luoyang,95
+1291,SWW 2.0,93
+1292,SMRR,64
+1293,Fontainbleau,2460
+1294,Covilhã,42
+1295,St. Catharines,13
+1296,Bohinj,304
+1297,Kusadasi,190
+1298,Himeji,39
+1299,Palmerston North,52
+1300,Tianjin / Xi'an,344
+1301,Montería,51
+1302,Krasnoyarsk,564
+1303,Taormina - Giardini Naxos,509
+1304,Lens,33
+1305,Reading,244
+1306,Aveiro,254
+1307,Kos,485
+1308,Fredrikstad,8
+1309,Noosa Heads,304
+1310,Hartmut Wedekind,182
+1311,Sanda,174
+1312,Compiegne,33
+1313,Liptovský Ján,50
+1314,Volos,196
+1315,Sandton,200
+1316,Bangor,48
+1317,Asakusa,175
+1318,Valdivia,69
+1319,Nagasaki,120
+1320,Glamorgan,979
+1321,Timisoara,428
+1322,Les Diablerets,67
+1323,Monterrey,286
+1324,Berder Island,2
+1325,Caparica,177
+1326,Hartmut Ehrig,182
+1327,Neil D. Jones,45
+1328,Shiraz,60
+1329,Juan les Pins,153
+1330,Copiapo,19
+1331,Makati City,197
+1332,Queenstown,720
+1333,Lethbridge,48
+1334,Hsin Chu,49
+1335,Cambridge University,266
+1336,Saint-Emilion,54
+1337,Ciudad Real,26
+1338,Pensacola Beach,126
+1339,Muldersdrift,22
+1340,Castellón,2466
+1341,Tsukuba-City,733
+1342,Kaua'i,19
+1343,Zürch,27
+1344,Callicoon,6
+1345,Kinsale,50
+1346,Växjö,19
+1347,Singapore - Volume 1,507
+1348,Vitoria,63
+1349,Fortaleza-CE,759
+1350,Antibes Juan-les-Pins,153
+1351,Multidisciplinary Research and Practice 2002,911
+1352,The e-Business Challenge 2002,3482
+1353,Suita (near Osaka),8
+1354,Porto de Galinhas/Recife,2
+1355,Caesarea,42
+1356,La Serena,254
+1357,Lihue,19
+1358,Westminster University,2862
+1359,Kanpur,68
+1360,Rovaniemi,226
+1361,St. Gilles les Bains,170
+1362,Poitiers,114
+1363,Sopot. Poland,1554
+1364,Portoroz,352
+1365,Tours,225
+1366,Turtle Bay,62
+1367,Loyola College Graduate Center,331
+1368,Port d'Andratx,33
+1369,Kuressaare,134
+1370,Orlando (Kissimmee),2958
+1371,Image-Guided Procedures 2006,1535
+1372,Västerås,26
+1373,Luxembourg - DISWEB,194
+1374,Itatiaia,46
+1375,Luxembourg - BUSITAL,194
+1376,Luxembourg - BPMDS,194
+1377,Ho Chi Minh City,1578
+1378,Minneapolis/St.Paul,322
+1379,Minnneapolis,122
+1380,La Plata,866
+1381,Montbeliard-Sochaux,152
+1382,Queen's University,43
+1383,Perpignan,164
+1384,Albacete,46
+1385,Terromolinos,12375
+1386,Luxembourg - UMICS,194
+1387,Luxembourg - PhiSE,194
+1388,University of California,143
+1389,Luxembourg - WISM,158
+1390,Portonovo (Ancona),1327
+1391,Reston,237
+1392,Karlstad,27
+1393,Hamburg-Eppendorf,638
+1394,Casta-Papiernicka,146
+1395,Wokingham,966
+1396,Joseph A. Goguen,40
+1397,Reinhard Wilhelm,160
+1398,Kibbutz Shefayim,1204
+1399,Daniele Mundici,300
+1400,Yogyakarta,1000
+1401,Cavalese,84
+1402,Detecting Local Patterns 2004,414
+1403,Perspectives Workshop,300
+1404,Jouy-en-Josas,9
+1405,Preferences 2004,352
+1406,Tom Head,1089
+1407,Nice / Sophia-Antipolis,2481
+1408,Kalamata,470
+1409,Kauai Island,58
+1410,Puebla City,200
+1411,Saint Raphael,435
+1412,Airth Castle,2
+1413,BioMath in the Schools 2005,398
+1414,Bridgetown,63
+1415,Eivissa,157
+1416,Trentino,9997
+1417,Simulation & Scheduling 2005,1477
+1418,University of Milan,2284
+1419,Service Oriented Computing 2005,21
+1420,Dieter Rödding,8
+1421,Ebberup,5
+1422,Suhl,24
+1423,Wissensrepräsentation in Expertensystemen 1987,688
+1424,Günne,11
+1425,Moretonhampstead,17
+1426,Tromsø,64
+1427,Ramatuelle,30
+1428,Stirling Scotland,96
+1429,Bénodet,57
+1430,Mook,3
+1431,Natural Language and Logic,179
+1432,Franconia,243
+1433,Houthalen,97
+1434,Visegrád,29
+1435,Nantou,579
+1436,Kalamazzo,30
+1437,S'Agaró,75
+1438,Hidden Valley,13
+1439,Morristown,9
+1440,Schloß Reisensburg,93
+1441,Wusterhausen,10
+1442,La Roche Posay,64
+1443,Island of Crete,3803
+1444,Oberkochen-Aalen,391
+1445,Salzburg,284
+1446,Königswinter,21
+1447,Antibes,683
+1448,INRIA,2717
+1449,Bad Münster,22
+1450,Banská Bystrica,66
+1451,Oberhof,41
+1452,Sankt Augustin,807
+1453,Yountville,9
+1454,Aiguablava,473
+1455,Gosen near Berlin,3
+1456,Beverly Hills,41
+1457,Wingst/Stade,26
+1458,Colle-sur-Loup,34
+1459,Zaborów,16
+1460,Plestin-les-Grèves,32
+1461,West Palm Beach,151
+1462,Sophia-Antipolis,159
+1463,Skytop Lodge,253
+1464,Toulouse/France,624
+1465,Parma,264
+1466,Le Mont Dore,355
+1467,Nafplion,301
+1468,Toulouse-Moissac,624
+1469,Bad Münster am Stein-Ebernburg,354
+1470,Coto de Caza,174
+1471,Saint-Pierre-de-Chartreuse,600
+1472,Trégastel,109
+1473,Grand Bahama Island,24
+1474,Appin,383
+1475,oledo,99
+1476,Val d'Ajol,325
+1477,Burnaby,34
+1478,Den Haag,120
+1479,Cachan-Paris,6283
+1480,Schärding,49
+1481,Albufeira,2120
+1482,North Carolina,438
+1483,Loutraki,143
+1484,Santa Fé,325
+1485,Stowe,65
+1486,Angelès-Village,117
+1487,Giens,379
+1488,Beckenridge,570
+1489,Ottstein/Niederösterreich,1296
+1490,Menorca,1823
+1491,Gullane,1261
+1492,Port-Camargue,691
+1493,Beyond Program Slicing 2005,857
+1494,Deduction and Applications 2005,7
+1495,Living and Working with AI,1286
+1496,Spatial Cognition,125
+1497,Automatic Performance Analysis 2005,472
+1498,Yaoundé,83
+1499,Ellicottville,24
+1500,Calais,65
+1501,Niort,109
+1502,Sitges (Barcelona),454
+1503,Massachusetts,1987
+1504,Singagore,507
+1505,Glenwood Springs,27
+1506,Federation over the Web 2005,3127
+1507,Mt. Pleasant,65
+1508,Tokushima,116
+1509,Frauenwörth Cloister,4770
+1510,Sao Leopoldo,13
+1511,Camerino,15
+1512,Msida,68
+1513,Montego Bay,192
+1514,Florianolpolis,2394
+1515,Lodz,349
+1516,Port Douglas,224
+1517,St. Moritz,703
+1518,Ribeirão Petro,63
+1519,Orissa,63
+1520,Tegernsee,188
+1521,Rio de Janeriro,2224
+1522,Walworth Castle,80
+1523,Leganés,3107
+1524,La Coruna,216
+1525,Cala Galdana,105
+1526,Lessons from AI Research and Applications,548
+1527,Pocos de Caldas,66
+1528,Disease Evolution,139
+1529,Hinxton,460
+1530,La Roche en Ardenne,87
+1531,Cognitive Vision Systems 2006,1570
+1532,Ribeirao Preto,88
+1533,Negotiation,4689
+1534,Ustrón,161
+1535,Petrozavodsk,371
+1536,Québec,275
+1537,Middlesbrough,65
+1538,Flushing,102
+1539,Niagara-Falls,135
+1540,Pontevedra,213
+1541,Nelson,168
+1542,Carleton University,140
+1543,Port Elizabeth,310
+1544,Resources for AI Education,126
+1545,Iquique,71
+1546,Niigata,49
+1547,Sant Julià de Lòria,720
+1548,Praque,1718
+1549,Dornburg,370
+1550,Santos,230
+1551,Faro,318
+1552,Cesky Krumlov,255
+1553,Kristiansand,35
+1554,El Escorial (Madrid),16
+1555,Kananaskis,4
+1556,Callaway Gardens,8
+1557,Harriman,5
+1558,Guam,15
+1559,Evry,22
+1560,Isle of Bendor,837
+1561,Santorini Island,198
+1562,Reggio Calabria,223
+1563,Herzelia,57
+1564,Chamrousse,174
+1565,Benevento,60
+1566,Roanne,39
+1567,Ceské Budejovice,95
+1568,Sentosa,18
+1569,Cavtat-Dubrovnik,404
+1570,Rom,5298
+1571,Minho,2069
+1572,Zohar Manna,5
+1573,Kos Island,192
+1574,Czestochowa,115
+1575,Belek-Antalya,286
+1576,Malente (near Kiel),3375
+1577,Heian Jingu Shrine,10
+1578,Aizu-Wakamatsu. Japan,20
+1579,Eichstätt,11
+1580,Rovereto,49
+1581,Sappro,766
+1582,Macquarie University,32
+1583,Kilkenny City,68
+1584,Monterey Bay,73
+1585,San Mateo,11
+1586,Piracicaba,38
+1587,Data Depth,2
+1588,Multiantenna Channels,50
+1589,Bussolengo,32
+1590,Corvallis,21
+1591,Keele University,38
+1592,Poitiers-Futuroscope,114
+1593,Assisted Living Systems - Models,208
+1594,Puerto de Andratx,33
+1595,Almaty,568
+1596,Lihue (Kauai),19
+1597,Chillan,33
+1598,Napoli,3207
+1599,Zittau,29
+1600,Cetraro (CS),30
+1601,Messina,194
+1602,Image-Guided Procedures 2003,1535
+1603,The Sagamore,487
+1604,Isle of Skye,538
+1605,Huhehaote,22
+1606,Iguassu Falls,270
+1607,Algarve,11364
+1608,Sanitago,374
+1609,Mont Saint-Michel,13
+1610,Burg (Spreewald) near to Cottbus,579
+1611,Sharjah,92
+1612,Maebashi,14
+1613,La Paz,132
+1614,Xiamen,119
+1615,Bonn/Königswinter,21
+1616,Beja,22
+1617,S. Margherita di Pula (Cagliari),197
+1618,Image-Guided Procedures 2004,1535
+1619,Ninjing,13
+1620,Madeira,2196
+1621,Digital Library Architectures 2004,85
+1622,Lutherstadt Wittenberg,54
+1623,Gainesville,63
+1624,Mont Saint Michel,13
+1625,Samos Island,36
+1626,Chemnitz / 2006,89
+1627,Chur,20
+1628,Assisi,367
+1629,Guiyang,94
+1630,Grindelwald,325
+1631,Tarascon,35
+1632,Kennebunkport,31
+1633,Vaesteraas,26
+1634,Bad Herrenalb,40
+1635,Peñiscola,714
+1636,L'Annecy,527
+1637,Kazimierz,156
+1638,Villard de Lans,124
+1639,Clermont-Ferrand,122
+1640,Jurmala,305
+1641,Bad Helmstedt,60
+1642,Little Compton,3
+1643,Niagra-on-the-Lake,75
+1644,Bradford University,142
+1645,Armidale,50
+1646,Båstad,33
+1647,Logic Programming and Education,29
+1648,Sesimbra,295
+1649,Chambery,60
+1650,Naharia,66
+1651,San Remo,559
+1652,Alès,345
+1653,Gent,248
+1654,Ravello,186
+1655,Lubbock,77
+1656,Ilkey,15
+1657,Belgirate,33
+1658,Georgia,9919
+1659,Peter Gorny,110
+1660,Beaune,209
+1661,Semmering,25
+1662,Policy and Algorithms 1995,0
+1663,Cassis,301
+1664,Clemson,12
+1665,Le Mont-Saint-Michel,13
+1666,Chateau de Bonas,433
+1667,Cooper Mountain Resort,7
+1668,San Francisco California,274
+1669,Kinross,19
+1670,Prague and Karlovy Vary,172
+1671,Yellowstone Park,213
+1672,Berkeley Springs,38
+1673,Groups and Computation 1995,0
+1674,Aspen Grove,720
+1675,2003,381
+1676,Klagenfurt/Velden,136
+1677,Jakarta,1354
+1678,Muscat,128
+1679,Villasimius,460
+1680,Luzern,147
+1681,Macaé,45
+1682,Anacapri (Capri Island),156
+1683,Lake Yamanaka,90
+1684,Neuherberg/Garching near Munich,13
+1685,Guimaraes,102
+1686,Scenarios,649
+1687,Johnstown,4
+1688,Wolfgang Janko,110
+1689,Marseilles,818
+1690,Language-Based Security 2003,6
+1691,San Francisico,274
+1692,Embodied Artificial Intelligence 2003,1585
+1693,Data Visualization,2
+1694,Tangermünde,32
+1695,Amesterdam,1106
+1696,Preston,72
+1697,Kemer-Antalya,252
+1698,Örebro,30
+1699,Juan-Les-Pins,153
+1700,Garching bei München,13
+1701,Bertinoro,15
+1702,Tokyo-Odaiba,6
+1703,Oviedo,222
+1704,Kuopio,51
+1705,La Martinique,152
+1706,Marakech,1102
+1707,Gjøvik,4
+1708,Veldhoven,7
+1709,AAMAS 2003,3
+1710,Fair Division 2007,4781
+1711,Tools for the Model-based Development of Certifiable,160
+1712,Exact,298
+1713,Yyteri,2
+1714,San Sebastián,729
+1715,La Manga del Mar Menor,344
+1716,Solstrand,3
+1717,Morella,42
+1718,St. Augustin,807
+1719,Ceský Krumlov,255
+1720,Computer-Aided Diagnosis 2007,274
+1721,Weihai,33
+1722,San Servolo,78
+1723,Image-Guided Procedures 2007,1532
+1724,Sainte-Luce,94
+1725,Halle,74
+1726,Saint-Étienne,118
+1727,Corvalis,12
+1728,Yerevan,1106
+1729,Aranjuez,16
+1730,Halle (Saale),74
+1731,Lucerne,147
+1732,Brixen-Bressanone,120
+1733,Michigan,1978
+1734,St. Gallen,43
+1735,Zhang Jiajie,216
+1736,Oudenaarde,32
+1737,Midrand,139
+1738,Monheim,8
+1739,Frankfurt (Oder),17
+1740,Local Pattern Detection 2004,4282
+1741,Luxemburg,194
+1742,Yellow Mountain,507
+1743,Future Generation Grids 2004,294
+1744,Desna,18
+1745,Brockenhurst,25
+1746,Carlow,21
+1747,Biarritz,551
+1748,Samos,36
+1749,Bad Homburg,28
+1750,Charleroi,36
+1751,University of Salford,146
+1752,Hainan Island,79
+1753,Shanghai/Xian,724
+1754,Delhi,1793
+1755,Plock,50
+1756,Lake District National Park,36
+1757,Surfers Paradise,406
+1758,HongKong,533
+1759,Kokubunji,3
+1760,Amherst,4
+1761,Bialowieza,62
+1762,an Diego,765
+1763,Tandil,268
+1764,Angra dos Reis,339
+1765,Norfolt,1974
+1766,Adelphi,486
+1767,Clermont Ferrand,122
+1768,Menaggio,142
+1769,Merin,7
+1770,Torun,474
+1771,Linz/Hagenberg,95
+1772,Gauteng Region (Johannesburg),872
+1773,Apolda,10
+1774,Salerno,583
+1775,Herrsching am Ammersee,10
+1776,St. Julien's,3
+1777,Porto Sani,105
+1778,Wisla,332
+1779,Vouliagmeni,63
+1780,Darwin,91
+1781,Santo André,11
+1782,Cergy-Pontoise,29
+1783,UPV,1758
+1784,Sainte Luce,94
+1785,Provincetown,110
+1786,Monte Porzio Catone,5
+1787,Arcachon,561
+1788,Fira,330
+1789,Cains,92
+1790,Vico Equense,218
+1791,Cebu City,365
+1792,Castillo de la Mota,27
+1793,Erlangen-Nürnberg,57
+1794,Yilan,1129
+1795,Chij-Napoca,619
+1796,Búzios,814
+1797,Hainan,316
+1798,Piriapolis,142
+1799,Villars-sur-Ollon,147
+1800,Syros,421
+1801,Tønsberg,17
+1802,Image-Guided Procedures 2008,1530
+1803,Kassandra,1849
+1804,Anacarpi,156
+1805,Cyprus,6058
+1806,Cherbourg-Octeville,64
+1807,Martinique,1283
+1808,Nimes,227
+1809,Advances in Database Systems,155
+1810,Marciana Marina,103
+1811,Graal-Müritz,143
+1812,Lucca,612
+1813,Schloss Dagstuhl,93
+1814,Kanazawa,353
+1815,Lake Guntersville,18
+1816,Lloret de Mar,941
+1817,Architecture and Protocols for High-Speed Networks 1993,365
+1818,Annecy,527
+1819,S. Margherita,146
+1820,Caracas,32
+1821,Malaga,2739
+1822,Terschelling,48
+1823,Palma de Mallorca,289
+1824,Bonn-Bad Godesberg,30
+1825,Bad Lippspringe,11
+1826,Lyngby,9
+1827,Monte Verita,481
+1828,Boppard,64
+1829,Coding And Quantization 1992,0
+1830,Ayr,106
+1831,Trivandrum,158
+1832,Montrél,3463
+1833,S. Martino al Cimino,5
+1834,Le Mont Saint-Michel,13
+1835,Ube,172
+1836,Balimore,105
+1837,Sudbury,25
+1838,Henley-on-Thames,32
+1839,Compiègne,33
+1840,Nordwijkerhout,68
+1841,Noordwijkerhoot,68
+1842,Lüneburg,111
+1843,Pau,91
+1844,Oulu,99
+1845,Erice,61
+1846,Honk Kong,533
+1847,Soest,14
+1848,Archamps,5
+1849,Lofthus,5
+1850,Gmunden,54
+1851,Gizzeria,21
+1852,Parnu,472
+1853,Nijmegen,38
+1854,Rockland,6
+1855,Padova,303
+1856,Toulouse and Caylus,624
+1857,Mondello,190
+1858,Sabadell,20
+1859,Computer-Aided Diagnosis 2008,274
+1860,Saint-Petersburg,8125
+1861,Kaohisung,320
+1862,Science and Systems 2008,64
+1863,Akron,12
+1864,ETH Zurich,237
+1865,Kitakyushu-City,729
+1866,Newcastle University,294
+1867,Monteéal,404
+1868,Hrebienok,228
+1869,Seattle/Redmond,13
+1870,Incline Village,91
+1871,Asahikawa,90
+1872,Novy Smokovec,3
+1873,Lozenetz,883
+1874,Gijón,379
+1875,Piraeus,177
+1876,Wilderness,150
+1877,Guayaquil,216
+1878,Uzès,100
+1879,Enskede,13
+1880,Kagawa,340
+1881,Umeåa,17
+1882,Ugo Montanari,707
+1883,Boris A. Trakhtenbrot,2661
+1884,Alberto Martelli,3411
+1885,Hyogo,462
+1886,Cozumel,177
+1887,Kaunas,276
+1888,Nagasahi,119
+1889,Glenelg/Adelaide,76
+1890,Villeneuve d'Ascq,23
+1891,The Evolution of Conceptual Modeling 2008,148
+1892,Beyond the Finite,16
+1893,Scalable Program Analysis 2008,42
+1894,Xanthi,31
+1895,Leixlip,4
+1896,Montevideo,164
+1897,Brasilia,318
+1898,Hyères,379
+1899,Keihanna Science City,303
+1900,2004,791
+1901,A Coruna,216
+1902,State College,30
+1903,Maceiò,724
+1904,IBM,3
+1905,Günzburg,44
+1906,Arica,53
+1907,Laxenburg,85
+1908,Aizu-Wakamatsu City,18
+1909,Veracruz,160
+1910,Lawrence,15
+1911,Joensuu,20
+1912,ZhenJiang,32
+1913,Schloß Hofen/Bregenz,3419
+1914,Krems,43
+1915,Ribeirao Preto-SP,88
+1916,São Luis,110
+1917,Pernambuco,2636
+1918,Madonna di Campiglio,233
+1919,Karpacz,639
+1920,Colima,33
+1921,Foz do Iguacu,270
+1922,Sonoma Valley,13
+1923,Kufstein,18
+1924,Jürgen Krause,1800
+1925,Mobile Information Management 2004,118
+1926,Rainer Kuhlen,678
+1927,Algorithms and Number Theory 2004,57
+1928,Mediadesign Hochschule,691
+1929,La Rochelle,325
+1930,Boston Area,236
+1931,Accra Beach,63
+1932,Abbottabad,44
+1933,Gliwice,84
+1934,Yokohama City,62
+1935,St. Maarten,168
+1936,Oaxaca,292
+1937,Tiruchirappalli,75
+1938,Catalina Island,38
+1939,Lakehead University,38
+1940,Google Campus,468
+1941,Troy,161
+1942,Paisley,52
+1943,Klosterneuburg,2068
+1944,Bodrum,682
+1945,Kailua-Kona,273
+1946,Nímes,226
+1947,Rende,36
+1948,Huerta Grande,270
+1949,Etelsen,363
+1950,Franschhoek,170
+1951,Katowice-Ustron,251
+1952,Rebild,183
+1953,Concord,271
+1954,Fiesole,44
+1955,Juan Les Pins,151
+1956,Monaco / French Riviera,11437
+1957,Rapperswil-Jona,205
+1958,Arras,46
+1959,Riccione,365
+1960,Los Cabos,426
+1961,Huludao,7
+1962,Milan/Como,3123
+1963,Rennes and Saint-Malo,416
+1964,Beverly,40
+1965,Hue City,255
+1966,Saint Maarten,168
+1967,Kusatsu,48
+1968,TechnischeUniversität Dresden,270
+1969,Brandenburg (Havel),48
+1970,Technische Universität Dresden,270
+1971,St Johns,45
+1972,Szczecin,394
+1973,Verbania-Intra,177
+1974,Pisek,28
+1975,Gießen/Limburg,1095
+1976,Parador de Cardona,21
+1977,Mechelen,42
+1978,La Palma,1137
+1979,Anacapri,156
+1980,Guadeloupe - French West Indies,4131
+1981,Voronezh,590
+1982,Hissar,44
+1983,Menlo Park,13
+1984,Torremolinos-Málaga Spain,1110
+1985,Torre Canne,81
+1986,La Laguna,137
+1987,Derby,7
+1988,Courchevel,363
+1989,Rapid City,66
+1990,Karon Beach,135
+1991,Vrátna Dolina,121
+1992,Heerlen,17
+1993,Selangor,1692
+1994,Baden-Baden,195
+1995,Kaiserslautern - Workshops,67
+1996,Cornell University,43
+1997,Mainz,132
+1998,Wrocław,818
+1999,Vasteras,26
+2000,ALA 2011,73
+2001,Chandigarh,187
+2002,Aquileia,16
+2003,Fajardo,23
+2004,Campione d'Italia,9
+2005,Ettlingen,12
+2006,Hong Kong - Sketches,532
+2007,Hong Kong - Posters,533
+2008,Hong Kong - Computer Animation Festival,897
+2009,Hong Kong - Emerging Technologies,605
+2010,Linkoping,26
+2011,Toluca,77
+2012,Palinuro,121
+2013,Maratea,104
+2014,Mesa,61
+2015,Tokyo & Hiroshima,3361
+2016,Quito,407
+2017,Hilversum,13
+2018,Newcastle-upon-Tyne,260
+2019,Timișoara,426
+2020,Ein-Gedi,6
+2021,Kajang,107
+2022,Lleida,26
+2023,São José dos Campos,55
+2024,Curico,14
+2025,Convitto della Calza,55
+2026,Kastoria,37
+2027,Ravenna,154
+2028,Image-Guided Procedures 2011,1531
+2029,Douro Wine Region,57
+2030,Fez,370
+2031,Gurgaon,698
+2032,Teplá Monastery,4
+2033,Sharm El-Sheikh,271
+2034,La Jolla (San Diego),144
+2035,Vilanova i la Geltrú,57
+2036,Orange,58
+2037,Trani,197
+2038,Debrecen,165
+2039,Pescara,265
+2040,Hualien,550
+2041,Thira,330
+2042,Kanas City,157
+2043,Berleley/Oakland,51
+2044,Long Branch,8
+2045,Tangshan,28
+2046,Orford,47
+2047,Midland,1153
+2048,Dakar,313
+2049,Leganés-Madrid,10
+2050,Mieres,8
+2051,Rostov-on-Don,799
+2052,Trois-Rivières,26
+2053,Costa de Caparica,177
+2054,Sirince,8
+2055,Ascoli Piceno,111
+2056,Kasane,20
+2057,Bolzano/Bozen,167
+2058,Morioka,27
+2059,Taranto,261
+2060,Elba,1657
+2061,Alphen aan den Rijn,6
+2062,Vugh,8
+2063,Cergy Pontoise / Paris,29
+2064,Piteå,12
+2065,León,212
+2066,Viana do Castelo,179
+2067,Megève,222
+2068,Veniceo,814
+2069,Nha Trang,557
+2070,Norman,7905
+2071,Trim,15
+2072,Tsinghua University,52
+2073,Calvia,16
+2074,Tuxtla Gutierrez,73
+2075,Waidhofen/Ybbs,20
+2076,Caserta,145
+2077,Saint Raphaël,432
+2078,Caligari,1834
+2079,Marek J. Sergot 2012,127
+2080,Singapore - Posters,507
+2081,Singapore - Art Gallery,97
+2082,Jean-Jacques Quisquater 2012,251
+2083,Marco Island,546
+2084,Pont à Mousson,212
+2085,Piraeus/Athens,211
+2086,Antigua,99
+2087,Xiangtan,17
+2088,Donostia-San Sebastiían,728
+2089,FernUniversität Hagen,45
+2090,New Rochelle,683
+2091,Langkawi,280
+2092,Yellow Mountains,60
+2093,Hong Kong - Short Papers,533
+2094,Fuengirola (Málaga),876
+2095,Danang,930
+2096,Salvador de Bahia,756
+2097,Gwalior,97
+2098,Sigtuna,67
+2099,Raesfeld,142
+2100,Newton,49
+2101,Cappadocia,480
+2102,Cartagena de Indias,1181
+2103,Costa Mesa,26
+2104,Unidad Iztapalapa,98
+2105,Szczyrk,354
+2106,Starved Rock State Park,18
+2107,Costa Adeje,2799
+2108,Medellin,636
+2109,Georg Färber,66
+2110,Laval,174
+2111,Riva,402
+2112,Leganes,3097
+2113,Nizhny Novgorod,750
+2114,Lixouri Kefalonia,138
+2115,Viareggio,299
+2116,Taiyuan,92
+2117,Frankfurt am Main,293
+2118,Learning,30
+2119,Robust Query Processing 2010,1470
+2120,Demarcating User eXperience 2010,697
+2121,Dynamic Maps 2010,129
+2122,Modelling,4
+2123,Insider Threats,51
+2124,MIT Stata Center,304
+2125,Automation in Digital Preservation 2010,646
+2126,Resilience Assessment and Evaluation 2010,15
+2127,Veľká Fatra,1677
+2128,Runtime Verification,52
+2129,Scalable Visual Analytics 2010,824
+2130,Information-Centric Networking 2010,2678
+2131,Kamuela,1427
+2132,Yale University,73
+2133,Pachuca,47
+2134,Helsingborg,27
+2135,Kazan,1810
+2136,Bahía Blanca,111
+2137,Tohoku University,121
+2138,Kaifeng,49
+2139,Schloss Schwetzingen,15
+2140,Cebu,990
+2141,Bodega Bay,22
+2142,Yamanaka Hot Spring,165
+2143,New Delhi and Agra,1782
+2144,Povoa de Varzim,96
+2145,Quantitative Models,338
+2146,Bilkent,158
+2147,Killarney,208
+2148,Structure Discovery in Biology,3469
+2149,Islamabad,279
+2150,Flexible Network Design 2010,2678
+2151,Program Composition and Optimization,6
+2152,Computational Transportation Science 2010,2678
+2153,Relationships,1051
+2154,Decision Procedures in Software,30
+2155,Pervasive Public Displays 2010,951
+2156,Ponta Deldaga,432
+2157,Furtwangen,18
+2158,Ishikawa,459
+2159,Colombo,172
+2160,Reikjavick,224
+2161,Sogndal,24
+2162,Merida City,396
+2163,Aix-Les-Bains,315
+2164,Międzyzdroje,707
+2165,Kinmen,235
+2166,Torremolinos-Málaga,1110
+2167,Borrowdale,8
+2168,Zanzibar,698
+2169,Iguacu Falls,271
+2170,Rende (CS),36
+2171,Sevastopol,0
+2172,Kutaisi,360
+2173,Nerja,1316
+2174,Rajpura/Punjab,7
+2175,Sierra Nevada,274
+2176,Kolimpari,69
+2177,Tainan City,545
+2178,Image-Guided Procedures 2012,1531
+2179,Kgs. Lyngby,800
+2180,Chengde,25
+2181,Yalta,0
+2182,Montrèal,402
+2183,Singapore - Computer Animation Festival,1545
+2184,Science and Systems 2012,64
+2185,Singapore - Emerging Technologies,1545
+2186,Bernd J. Krämer 2012,186
+2187,Singapore - Courses,507
+2188,Singapore - Symposium on Apps,507
+2189,Chung-Li,443
+2190,Val d'Isère,257
+2191,Aizuwakamatsu,20
+2192,Matsuyama,104
+2193,Bengaluru (Bangalore),1180
+2194,Ankara,167
+2195,Los Alamitos,3
+2196,Melaka,604
+2197,Carrillo,16
+2198,Kanagawa,801
+2199,Arnhem,40
+2200,Sushou,249
+2201,Gold Coast City,313
+2202,Jekyll Island,83
+2203,Magdeburg - Workshops,85
+2204,Sidney,1252
+2205,Rio de Janairo,2031
+2206,J. Ian Munro 2013,20
+2207,Boekelo,3
+2208,Raipur,87
+2209,Kattankulathur,429
+2210,Deggendorf,16
+2211,Naiguata,84
+2212,Veszprém,67
+2213,Dundalk,15
+2214,Phu Quoc Island,435
+2215,Klagenfurt am Wörthersee,136
+2216,Leavenworth,121
+2217,Greader Noida,105
+2218,Gjovik,4
+2219,Corunna,216
+2220,Space,172
+2221,Olhão,233
+2222,East London,189
+2223,Viareggio / Trento,299
+2224,Bandar Baru Bangi (near Kuala Lumpur),2675
+2225,Venice/Mestre,232
+2226,Shizuoka,915
+2227,Ghaziabad,184
+2228,Deerfield Beach,36
+2229,Malacca,604
+2230,Spindleruv Mlýn,165
+2231,Warwickshire,486
+2232,Rapperswil,10
+2233,Fukuoka / Beijing,859
+2234,Yi-Lan,60
+2235,Kottayam,35
+2236,Piran,313
+2237,Marrakesh,2199
+2238,Batu Ferringhi,91
+2239,Voss,43
+2240,Sparks,7
+2241,Athens/Vouliagmeni,63
+2242,Komárno,27
+2243,Merano/Meran,237
+2244,Dong hoi,49
+2245,Pamplona,133
+2246,Elche,29
+2247,Zermatt,525
+2248,Pula,198
+2249,Fukoka,859
+2250,Tianjin,189
+2251,Solothurn,19
+2252,Xi'An,344
+2253,Maputo,63
+2254,Reggio Emilia,76
+2255,Bakuriani,313
+2256,Bressanone-Brixen,120
+2257,Rabat,225
+2258,Suntec,420
+2259,St. Julians,164
+2260,Paris-Rocquencourt,4238
+2261,Coimbatore,166
+2262,Garching,13
+2263,Wu Yi Mountain,139
+2264,Indore,267
+2265,Medellín,635
+2266,Aviero,253
+2267,Saida,95
+2268,Znojmo,116
+2269,Mysore,181
+2270,Presqu'île de Giens,377
+2271,Computer-Aided Diagnosis 2009,274
+2272,Wisła,331
+2273,Marettimo Island,46
+2274,Urbana Champaign,3
+2275,Champaign,32
+2276,Image-Guided Procedures 2009,1530
+2277,Huangshan,27
+2278,Grand Bend,3
+2279,Da Nang,930
+2280,Toyama International Conference Center,145
+2281,Lecco,106
+2282,Palaiseau,9
+2283,East Stroudsburg,30
+2284,Fès,370
+2285,Sao Paolo,2221
+2286,Peter D. Mosses 2009,364
+2287,Martin Charles Golumbic 2009,703
+2288,Ferenc Gécseg,2275
+2289,Higashi Hiroshima,10
+2290,Cardona,21
+2291,Lushan Mountain,598
+2292,Garching near Munich,13
+2293,Halle-Wittenberg,74
+2294,Kish Island,4
+2295,Mar del Plata,642
+2296,Oak Ridge,9
+2297,Pelotas,45
+2298,Peso da Régua,77
+2299,Noida,343
+2300,Nuremburg,470
+2301,Horský hotel Kralova studna,227
+2302,Toyama,42
+2303,Alcala (Madrid),43
+2304,Mogliano Veneto,23
+2305,South Orange,58
+2306,Mlini/Dubrovnik,353
+2307,Mragowo,189
+2308,Durham University,185
+2309,Hofstra University,15
+2310,Paraty,652
+2311,Falls Church,8
+2312,Skopje,423
+2313,Cremona,54
+2314,Tacoma,46
+2315,Langenargen,94
+2316,Huangshi,4
+2317,Liberec,73
+2318,San Fancisco,8107
+2319,Nanchang,138
+2320,Sousse,65
+2321,North Cyprus,28
+2322,Brunow,7
+2323,Ulsan,29
+2324,Johannesburg,871
+2325,Bogota,945
+2326,Spindleruv Mlyn,165
+2327,Sesimbra-Lisbon,4395
+2328,Fayetteville,51
+2329,Pitthburgh,106
+2330,The Beskids,161
+2331,Estoril/Lisbon,357
+2332,Ruse,94
+2333,Gandia,231
+2334,Subotica,167
+2335,Cargese,47
+2336,Songdo,29
+2337,Belianske Tatry,1188
+2338,Baiona,68
+2339,Garden Grove,20
+2340,Mugla,140
+2341,Courmayeur,129
+2342,Pyeong Chang,1978
+2343,Luxembourg City,194
+2344,Rethymnon,477
+2345,Grand Wailea,226
+2346,Sao Carlos,33
+2347,JK Lakshmipat University (JKLU),832
+2348,Shibpur,72
+2349,Surat,117
+2350,Vahrn,6
+2351,Anávissos,72
+2352,Sirmione-Desenzano,475
+2353,Besancon,92
+2354,Donovaly,222
+2355,Porquerolles,11
+2356,Yazd,2806
+2357,Niteroi,92
+2358,Limoges,112
+2359,Brunów,7
+2360,Bressanone,120
+2361,Bhopal,232
+2362,Oklahoma City,169
+2363,Urumqi,32
+2364,Salangor,27
+2365,Rio Grande,1613
+2366,Hsinchu City,49
+2367,Fargo,48
+2368,Neusiedl am See,48
+2369,Emden,78
+2370,Saint Pierre,33
+2371,Lagodekhi,25
+2372,Grube,23
+2373,Wageningen,26
+2374,Szklarska Poręba,577
+2375,Giardini Naxos,509
+2376,Le Mans,189
+2377,Staten Island,9
+2378,Tarrytown,110
+2379,San José Costa Rica,348
+2380,San Bartolomé de Tirajana,3293
+2381,Thu Dau Mot,1401
+2382,Ensenada,228
+2383,Ansan,183
+2384,Kumamoto,151
+2385,Scholarly Big Data 2016,380
+2386,Symbiotic Cognitive Systems 2016,3411
+2387,Lorient,662
+2388,Deauville,2179
+2389,Zernov,334
+2390,Lamia,36
+2391,Capri Island,409
+2392,Mosteiro S.Bento Da Vitória,52
+2393,Castellón de la Plana,897
+2394,QingDao,190
+2395,Thessanoliki,578
+2396,Kibbutz Ein Gedi,9
+2397,Kherson,180
+2398,Addis Ababa,145
+2399,Lübbenau,360
+2400,Anglet,2563
+2401,Rutherford,1173
+2402,Honfleur,1763
+2403,Belgrade,1852
+2404,Orléan,302
+2405,Madrid + Valencia,3124
+2406,Sinaia,1136
+2407,Sibiu,927
+2408,Vitoria-Gasteiz,108
+2409,Huatulco,125
+2410,Špindlerův Mlýn,1519
+2411,Tangiers,407
+2412,Calabria,4804
+2413,Halong City,464
+2414,Yaounde,87
+2415,Bar,1200
+2416,Tuscaloosa,47
+2417,Zinal,1972
+2418,Cambridge/Boston,489
+2419,Computer-Aided Diagnosis 2012,274
+2420,Munich-Garching,850
+2421,Freising,228
+2422,Woburn,497
+2423,Artiminio,4757
+2424,Tamil Nadu,3041
+2425,Aomori,40
+2426,Matosinhos,101
+2427,Xiangyang,13
+2428,Gopeshwar,4
+2429,Udupi,44
+2430,Juarez City,1433
+2431,Olsztyn,294
+2432,Kathmandu City,370
+2433,Waikoloa Village,260
+2434,Saint-Jean-la-Vêtre,174
+2435,Bisschoffsheim,840
+2436,Wako,3434
+2437,Kalyani,8
+2438,Kerkennah (Sfax),9
+2439,Beni Suef,5
+2440,Santa Ana Pueblo,33
+2441,Aomori,40
+2442,Matosinhos,101
+2443,Xiangyang,13
+2444,Gopeshwar,4
+2445,Udupi,44
+2446,Juarez City,1433
+2447,Olsztyn,294
+2448,Kathmandu City,370
+2449,Waikoloa Village,260
+2450,Saint-Jean-la-Vêtre,174
+2451,Bisschoffsheim,840
+2452,Wako,3434
+2453,Kalyani,8
+2454,Kerkennah (Sfax),9
+2455,Beni Suef,5
+2456,Santa Ana Pueblo,33
+2457,Aomori,40
+2458,Matosinhos,101
+2459,Xiangyang,13
+2460,Gopeshwar,4
+2461,Udupi,44
+2462,Juarez City,1433
+2463,Olsztyn,294
+2464,Kathmandu City,370
+2465,Waikoloa Village,260
+2466,Saint-Jean-la-Vêtre,174
+2467,Bisschoffsheim,840
+2468,Wako,3434
+2469,Kalyani,8
+2470,Kerkennah (Sfax),9
+2471,Beni Suef,5
+2472,Santa Ana Pueblo,33
